@@ -8,6 +8,6 @@
 
 """NOTE""" ---> We considered the time function of each edge to be linear (ax + b) and when  we say {"ab":[a, b]} it means for edge which goes from a to b, we have "ax + b" this linear function which x is number of drivers in the edge !!!
 
-If you have any ideas or criticism to improve the code, be sure to share with us.
-samanarzaghi@ut.ac.ir
-School of Mathematics, Statistics and Computer Science College of Science, University of Tehran.
+To run the project just open the main.py and give it your example (you can check the sample input at end of each code!!!)
+
+If you have any ideas or criticism to improve the code, be sure to share with us. samanarzaghi@ut.ac.ir "School of Mathematics, Statistics and Computer Science College of Science, University of Tehran."
