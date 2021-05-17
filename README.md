@@ -10,4 +10,4 @@
 
 To run the project just open the main.py and give it your example (you can check the sample input at end of each code!!!)
 
-If you have any ideas or criticism to improve the code, be sure to share with us. samanarzaghi@ut.ac.ir "School of Mathematics, Statistics and Computer Science College of Science, University of Tehran."
+If you have any ideas or criticism to improve the code, be sure to share with us. samanarzaghi@ut.ac.ir/rayanforsat@ut.ac.ir "School of Mathematics, Statistics and Computer Science College of Science, University of Tehran."
