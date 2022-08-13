@@ -1,12 +1,21 @@
-# Solve-Traffic-On-Networks
+## Table of contents
+* [WHAT DOES IT DO](#general-info)
+* [PREREQUISITES](#technologies)
+* [SAMPLES](#setup)
+* [NOTE](#some-note)
 
-"""WHAT DOES IT TO""" ----> This program helps us to examine all the paths between two nodes for all the sub-graphs, get their Nash equilibrium when the traffic is balanced and calculates the optimal time of all possible paths between two nodes then return the best sub-graph and tell you which edges harmful to be optimal (based on braess's paradox).
 
-"""PREREQUISITES""" ---> We are using braess's paradox, dynamic best-respone and following article https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch08.pdf by "David Easley and Jon Kleinberg" which is modeling the traffic with game theory. So it is necessary to read about basic game theory and those contents.
+## WHAT DOES IT DO 
+This program helps us to examine all the paths between two nodes for all the sub-graphs, get their Nash equilibrium when the traffic is balanced and calculates the optimal time of all possible paths between two nodes then return the best sub-graph and tell you which edges harmful to be optimal (based on braess's paradox).
 
-"""SAMPLES""" ---> There are samples for each code at the end of the code. Always check them even if you completely understand how codes work :)
+## PREREQUISITES
+We are using braess's paradox, dynamic best-respone and following article https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch08.pdf by "David Easley and Jon Kleinberg" which is modeling the traffic with game theory. So it is necessary to read about basic game theory and those contents.
 
-"""NOTE""" ---> We considered the time function of each edge to be linear (ax + b) and when  we say {"ab":[a, b]} it means for edge which goes from a to b, we have "ax + b" this linear function which x is number of drivers in the edge !!!
+## SAMPLES 
+There are samples for each code at the end of the code. Always check them even if you completely understand how codes work :)
+
+## NOTE
+We considered the time function of each edge to be linear (ax + b) and when  we say {"ab":[a, b]} it means for edge which goes from a to b, we have "ax + b" this linear function which x is number of drivers in the edge !!!
 
 To run the project just open the main.py and give it your example (you can check the sample input at end of each code!!!)
 
